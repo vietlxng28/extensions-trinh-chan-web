@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Đã Chặn Truy Cập</title>
+        <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+            Helvetica, Arial, sans-serif;
+            background-color: #f7f9fc;
+            color: #2d3436;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            position: relative;
+        }
+        .container {
+            text-align: center;
+            padding: 48px;
+            background-color: #ffffff;
+            border: 1px solid #dfe6e9;
+            border-radius: 8px;
+            max-width: 420px;
+            width: 90%;
+        }
+        .icon {
+            width: 64px;
+            height: 64px;
+            margin-bottom: 24px;
+            fill: #ff7675;
+        }
+        h1 {
+            color: #2d3436;
+            font-size: 24px;
+            font-weight: 700;
+            margin: 0 0 12px 0;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #636e72;
+            margin: 0;
+        }
+        .highlight {
+            color: #ff7675;
+            font-weight: 600;
+            margin-top: 8px;
+            display: block;
+        }
+
+        .signature {
+            position: absolute;
+            bottom: 20px;
+            right: 25px;
+            font-size: 12px;
+            color: #b2bec3;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            user-select: none;
+        }
+        .signature strong {
+            color: #636e72;
+        }
+
+        .signature:hover {
+            color: #ff7675;
+            cursor: default;
+            transition: color 0.3s ease;
+        }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+        <svg class="icon" viewBox="0 0 24 24">
+            <path
+            d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"
+            />
+        </svg>
+        <h1>Truy Cập Bị Chặn</h1>
+        <p>Trang web này nằm trong danh sách hạn chế.</p>
+        <p class="highlight">Hãy quay lại làm việc ngay thôi!</p>
+        </div>
+
+        <div class="signature">Made by <strong>Lxng</strong></div>
+    </body>
+</html>
