@@ -1,87 +1,127 @@
 {
   "websites": [
     {
-      "domain": "facebook.com",
-      "exceptions": ["/messages/", "/login/", "/checkpoint/", "/logout/"]
-    },
-    {
-      "domain": "tiktok.com",
+      "domain": "leagueoflegends.com",
       "exceptions": []
     },
     {
-      "domain": "instagram.com",
+      "domain": "riotgames.com",
       "exceptions": []
     },
     {
-      "domain": "reddit.com",
+      "domain": "lolesports.com",
       "exceptions": []
     },
     {
-      "domain": "twitch.tv",
+      "domain": "op.gg",
       "exceptions": []
     },
     {
-      "domain": "twitter.com",
+      "domain": "u.gg",
       "exceptions": []
     },
     {
-      "domain": "x.com",
+      "domain": "porofessor.gg",
       "exceptions": []
     },
     {
-      "domain": "pinterest.com",
+      "domain": "leagueofgraphs.com",
       "exceptions": []
     },
     {
-      "domain": "snapchat.com",
+      "domain": "blitz.gg",
       "exceptions": []
     },
     {
-      "domain": "discord.com",
+      "domain": "lolalytics.com",
       "exceptions": []
     },
     {
-      "domain": "webtoons.com",
+      "domain": "mobalytics.gg",
       "exceptions": []
     },
     {
-      "domain": "mangadex.org",
+      "domain": "metasrc.com",
       "exceptions": []
     },
     {
-      "domain": "roblox.com",
+      "domain": "deeplol.gg",
       "exceptions": []
     },
     {
-      "domain": "steampowered.com",
+      "domain": "gol.gg",
       "exceptions": []
     },
     {
-      "domain": "dailymotion.com",
+      "domain": "probuilds.net",
       "exceptions": []
     },
     {
-      "domain": "netflix.com",
+      "domain": "lolchess.gg",
       "exceptions": []
     },
     {
-      "domain": "primevideo.com",
+      "domain": "tftactics.gg",
       "exceptions": []
     },
     {
-      "domain": "vimeo.com",
+      "domain": "tactics.tools",
       "exceptions": []
     },
     {
-      "domain": "9gag.com",
+      "domain": "metatft.com",
       "exceptions": []
     },
     {
-      "domain": "quora.com",
+      "domain": "lienminh.vnggames.com",
       "exceptions": []
     },
     {
-      "domain": "tumblr.com",
+      "domain": "lmssplus.org",
+      "exceptions": []
+    },
+    {
+      "domain": "lmssplus.com",
+      "exceptions": []
+    },
+    {
+      "domain": "lmssplus.cc",
+      "exceptions": []
+    },
+    {
+      "domain": "lmss.info",
+      "exceptions": []
+    },
+    {
+      "domain": "lmss.vn",
+      "exceptions": []
+    },
+    {
+      "domain": "xemgame.com",
+      "exceptions": []
+    },
+    {
+      "domain": "oneesports.gg",
+      "exceptions": []
+    },
+    {
+      "domain": "gamek.vn",
+      "exceptions": []
+    },
+    {
+      "domain": "motgame.vn",
+      "exceptions": []
+    },
+    {
+      "domain": "dtcl.gg",
+      "exceptions": []
+    },
+    {
+      "domain": "tft.vn",
+      "exceptions": []
+    },
+    {
+      "domain": "pay.zing.vn",
       "exceptions": []
     }
   ]

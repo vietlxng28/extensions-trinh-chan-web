@@ -22,7 +22,7 @@
     ],
     "web_accessible_resources": [
         {
-            "resources": ["trang_chan.html", "config.json"],
+            "resources": ["trang_chan.html", "config.json", "constant.js", "trang_chan.js"],
             "matches": ["<all_urls>"]
         }
     ]
